@@ -1,4 +1,6 @@
 # SpaceMeteo
-a simple (unfinished) LibGDX game for fun
+This was an "ObstacleAvoid" game project which turned into "SpaceMeteo"
 
-all the code is located inside "core" https://github.com/Hessam-Emami/SpaceMeteo/tree/master/core/src/com/obstacleavoid
+all the code is located inside "core"
+
+You can start reading the code from [HERE](https://github.com/Hessam-Emami/SpaceMeteo/blob/master/core/src/com/obstacleavoid/screen/GameScreen.java)
