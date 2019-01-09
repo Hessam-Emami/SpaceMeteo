@@ -1,5 +1,5 @@
 # SpaceMeteo
-This was an "ObstacleAvoid" game project which turned into "SpaceMeteo", a study project for working with LibGDX.
+This was an "ObstacleAvoid" tutorial project which then turned into "SpaceMeteo", a study of LibGDX.
 
 
 all the code is located inside "core"
