@@ -1,6 +1,4 @@
 # SpaceMeteo
-This was an "ObstacleAvoid" tutorial project which then turned into "SpaceMeteo", a study of LibGDX.
-
 
 all the code is located inside "core"
 
